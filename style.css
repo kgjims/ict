@@ -1,0 +1,16 @@
+body{
+    background-color:azure;
+}
+#p1{
+    color:gray
+}
+#p2{
+    color: rgb(19, 114, 151);
+    font-family: cursive;
+}
+#p3{
+    text-indent: 2cm;
+}
+#im1{
+    align-items: center;
+}
